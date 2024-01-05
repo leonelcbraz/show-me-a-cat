@@ -1,0 +1,23 @@
+{
+  "name": "show-me-a-cat",
+  "version": "1.0.0",
+  "description": "Lib that shows a random cat",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonelcbraz/show-me-a-cat.git"
+  },
+  "keywords": [
+    "random",
+    "cat"
+  ],
+  "author": "Leo Braz <leonelcbraz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonelcbraz/show-me-a-cat/issues"
+  },
+  "homepage": "https://github.com/leonelcbraz/show-me-a-cat#readme"
+}
