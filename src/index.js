@@ -1,7 +1,5 @@
-var catsList = require('./catsList');
-var random = require('./random');
+import catsList from './catsList'
+import random from './random'
 
-module.exports = {
-  catsList,
-  random
-};
+export { catsList }
+export { random }

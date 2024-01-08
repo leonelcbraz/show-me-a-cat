@@ -1,5 +1,7 @@
-const catsList = require('./catsList')
+import catsList from "./catsList";
 
-module.exports = function random(){
+const random = () => {
   return catsList[Math.floor(Math.random() * catsList.length)];
 }
+
+export default random

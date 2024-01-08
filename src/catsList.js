@@ -1,4 +1,4 @@
-module.exports = [
+const catsList = [
   '🐱',
   '🐈',
   '😿',
@@ -11,5 +11,7 @@ module.exports = [
   '😽',
   '😼',
   '🐈‍⬛',
-  '🐱‍💻'
+  '🐱‍💻',
 ]
+
+export default catsList
